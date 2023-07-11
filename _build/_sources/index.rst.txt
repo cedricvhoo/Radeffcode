@@ -10,7 +10,4 @@ Welcome to Radiation efficiency's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   userpage.md
-   theory.md
-   validation.md
-   API.rst
+   test.md
